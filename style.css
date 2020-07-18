@@ -1,0 +1,33 @@
+
+body{
+    font-family: 'Ubuntu', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.footer{
+    background: black;
+    color: white;
+    height: 24vw;
+    text-align: center;
+    width: 100%;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    padding: 1vw;
+}
+
+#footer-from{
+    font-size: 4vw;
+}
+#footer-easetanbul{
+    font-size: 10vw;
+    text-transform: uppercase;
+    margin-top: 0px;
+}
+
+#construction{
+    font-size: 12vw;
+    text-transform: uppercase;
+    margin-left: 2vw;
+}
